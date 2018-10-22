@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Human-Computer Interaction (HCI)",
+    "Affective Computing",
+    "Research",
+    "Data Science",
+    "Software Engineering",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science (Ongoing)"
+  institution = "University of Manchester"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc. Software Engineering (Distinction)"
+  institution = "University of Manchester"
+  year = 2013
+
+[[education.courses]]
+  course = "B. Eng., ICT (2:1)"
+  institution = "Covenant University, Nigeria"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+A PhD candidate in Human-Computer Interaction and affective computing. During the past 3 years, I researched on the use of pupillary response as a proxy to sense arousal, while also using eye-tracking technology to identify the user’s focal attention during moments of increased arousal. Future research interests include the use of unobtrusive technologies for affect detection in naturalistic settings. 
+Previously, I worked as a software consultant delivering Enterprise Resource Planning (ERP) solutions using SAP platform.
