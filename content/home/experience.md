@@ -60,8 +60,9 @@ date_format = "January 2006"
   * Customization of SAP portal to hide and show certain information depending on the user's roles.
   * Implementation of leave request and approval workflow.
   * Tier 3 (expert level) support after implementation.
-  
-  [[experience]]
+  """
+
+[[experience]]
   title = "SAP Solutions consultant"
   company = "C2G Consulting"
   company_url = "http://www.kabosolutions.com/"
@@ -73,8 +74,9 @@ date_format = "January 2006"
   * Requirement gathering 
   *	Supporting the clients on reports, interfaces, conversion programs, enhancements, forms and business workflows
   * Knowledge transfer in HR and ABAP modules 
+  """
 
-  [[experience]]
+[[experience]]
   title = "SAP Solutions consultant"
   company = "C2G Consulting"
   company_url = "http://c2gconsulting.com/"
@@ -86,8 +88,9 @@ date_format = "January 2006"
   * Requirement gathering 
   *	Supporting the clients on reports, interfaces, conversion programs, enhancements, forms and business workflows
   * Knowledge transfer in HR and ABAP modules
+  """
   
-   [[experience]]
+ [[experience]]
   title = "Trainee ABAP/BW consultant"
   company = "Elogica solutions, Bangalore"
   company_url = ""
@@ -95,8 +98,9 @@ date_format = "January 2006"
   date_start = "2010-09-01"
   date_end = "2011-03-01"
   description = "As an intern, I learnt SAP ABAP, SAP BW 3.5, BI 7.0 and HR modules using real life scenarios"
-
-   [[experience]]
+ """
+ 
+ [[experience]]
   title = "Software developer"
   company = "Chamswitch Plc."
   company_url = ""
@@ -104,9 +108,9 @@ date_format = "January 2006"
   date_start = "2009-09-01"
   date_end = "2010-09-01"
   description = "Responsible for website design and e-payment integration."
+ """
   
-  
-   [[experience]]
+ [[experience]]
   title = "Web applications developer"
   company = "Circumtechnologies Ltd."
   company_url = ""
@@ -114,5 +118,5 @@ date_format = "January 2006"
   date_start = "2007-03-01"
   date_end = "2007-09-01"
   description = "Design of websites and building web applications"
-
+"""
 +++
