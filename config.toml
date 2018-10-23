@@ -250,9 +250,9 @@ enableGitInfo = false
     link = "oludamilarem@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fab"
-    link = "//twitter.com/onedami"
+    link = "https://www.linkedin.com/in/damilare/"
 
   [[params.social]]
     icon = "researchgate"
