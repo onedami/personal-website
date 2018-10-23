@@ -18,8 +18,8 @@ authors = ["Oludamilare Matthews", "Zhanna Sarsenbayeva", "Weiwei Jiang", "Joshu
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "20th ACM International Conference on Multimodal Interaction (ICMI)"
-publication_short = "ICMI '18"
+publication = "ACM International Conference on Ubiquitous Computing"
+publication_short = "Ubicomp '18"
 
 # Abstract and optional shortened version.
 abstract = "The mood of a community influences work productivity, socioeconomic outcomes and general quality of life of its members, so being able to measure it opens a wealth of opportunities like, informing policies, scheduling events and possibly discovering the contexts that bring about undesirable moods within a community. 
