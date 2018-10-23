@@ -67,26 +67,13 @@ date_format = "January 2006"
 [[experience]]
   title = "SAP Solutions consultant"
   company = "C2G Consulting"
-  company_url = "http://www.kabosolutions.com/"
-  location = "Nigeria"
-  date_start = "2011-03-01"
-  date_end = "2011-06-01"
-  description = """I was a techno-functional (HR-ABAP) consultant to several clients including Society for Family Health (SFH), First Security Discount House (FSDH), UAC Nigeria, and Nest Oil.
- My roles included:
- * Requirement gathering 
- * pporting the clients on reports, interfaces, conversion programs, enhancements, forms and business workflows
- * Knowledge transfer in HR and ABAP modules 
-  """
-
-[[experience]]
-  title = "SAP Solutions consultant"
-  company = "C2G Consulting"
   company_url = "http://c2gconsulting.com/"
   location = "Nigeria"
   date_start = "2011-03-01"
   date_end = "2011-09-01"
   description = """I was a techno-functional (HR-ABAP) consultant to several clients including Society for Family Health (SFH), First Security Discount House (FSDH), UAC Nigeria, and Nest Oil.
  My roles included:
+ 
  * Requirement gathering 
  * Supporting the clients on reports, interfaces, conversion programs, enhancements, forms and business workflows
  * Knowledge transfer in HR and ABAP modules
