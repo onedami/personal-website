@@ -51,7 +51,7 @@ date_format = "January 2006"
   * Creating custom reports for identifying differences between the legacy system and the new system during parallel run.
   *	Tier 3 (expert) support to NLNG on workflow and data related issues.
   * Creation of custom infotypes for various master data entries.
-	* Interfacing the output of sap payroll run to third party bank APIs.
+  * Interfacing the output of sap payroll run to third party bank APIs.
   * Designing the pay slip template using SMARTFORMS
   * Linking SAP travel management and budgeting using USER EXITS and Business Application Programming Interfaces (BAPIs) 
   * Building custom reports for payroll, rewards and travel management
