@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Nigeria"
   date_start = "2014-03-01"
   date_end = "2015-09-01"
-  description = "As a consultant for NLNG, I was part of the team that re-implemented their HCM and ESS/MSS solution and provided post-implementation support."
+  description = """As a consultant for NLNG, I was part of the team that re-implemented their HCM and ESS/MSS solution and provided post implementation support.
  I was involved in:
   * Designing the pay slip template using SMARTFORMS
   * Linking SAP travel management and budgeting using USER EXITS and Business Application Programming Interfaces (BAPIs) 
@@ -44,7 +44,7 @@ date_format = "January 2006"
   location = "Nigeria"
   date_start = "2011-09-01"
   date_end = "2012-09-01"
-  description = "As part of a 2-man ABAP team, we contributed to the implementation of SAP HCM solution at FIRS (Nigeria's equivalent of UK's HRMS) and supported SAP HCM solution at NLNG."
+  description = """As part of a 2-man ABAP team, we contributed to the implementation of SAP HCM solution at FIRS (Nigeria's equivalent of UK's HRMS) and supported SAP HCM solution at NLNG.
  I was involved in:
   *	Writing FIRS' custom payroll program
   * Data migration from the legacy system using Legacy System Migration Workbench (LSMW) and Batch Data Communication BDC tools.
@@ -69,7 +69,7 @@ date_format = "January 2006"
   location = "Nigeria"
   date_start = "2011-03-01"
   date_end = "2011-06-01"
-  description = "I was a techno-functional (HR-ABAP) consultant to several clients including Society for Family Health (SFH), First Security Discount House (FSDH), UAC Nigeria, and Nest Oil."
+  description = """I was a techno-functional (HR-ABAP) consultant to several clients including Society for Family Health (SFH), First Security Discount House (FSDH), UAC Nigeria, and Nest Oil.
  My roles included:
   * Requirement gathering 
   *	Supporting the clients on reports, interfaces, conversion programs, enhancements, forms and business workflows
@@ -83,7 +83,7 @@ date_format = "January 2006"
   location = "Nigeria"
   date_start = "2011-03-01"
   date_end = "2011-09-01"
-  description = "I was a techno-functional (HR-ABAP) consultant to several clients including Society for Family Health (SFH), First Security Discount House (FSDH), UAC Nigeria, and Nest Oil."
+  description = """I was a techno-functional (HR-ABAP) consultant to several clients including Society for Family Health (SFH), First Security Discount House (FSDH), UAC Nigeria, and Nest Oil.
  My roles included:
   * Requirement gathering 
   *	Supporting the clients on reports, interfaces, conversion programs, enhancements, forms and business workflows
@@ -97,8 +97,7 @@ date_format = "January 2006"
   location = "India"
   date_start = "2010-09-01"
   date_end = "2011-03-01"
-  description = "As an intern, I learnt SAP ABAP, SAP BW 3.5, BI 7.0 and HR modules using real life scenarios"
- """
+  description = """As an intern, I learnt SAP ABAP, SAP BW 3.5, BI 7.0 and HR modules using real life scenarios"""
  
  [[experience]]
   title = "Software developer"
@@ -107,8 +106,7 @@ date_format = "January 2006"
   location = "Nigeria"
   date_start = "2009-09-01"
   date_end = "2010-09-01"
-  description = "Responsible for website design and e-payment integration."
- """
+  description = """Responsible for website design and e-payment integration"""
   
  [[experience]]
   title = "Web applications developer"
@@ -117,6 +115,5 @@ date_format = "January 2006"
   location = "Nigeria"
   date_start = "2007-03-01"
   date_end = "2007-09-01"
-  description = "Design of websites and building web applications"
-"""
+  description = """Design of websites and building web applications"""
 +++
