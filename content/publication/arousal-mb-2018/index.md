@@ -18,8 +18,8 @@ authors = ["Oludamilare Matthews", "Markel Vigo", "Simon Harper"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "20th ACM International Conference on Multimodal Interaction (ICMI)"
-publication_short = "ICMI '18"
+publication = "12th International Conference on Methods and Techniques in Behavioral Research (2018)"
+publication_short = "Measuring Behaviour 2018"
 
 # Abstract and optional shortened version.
 abstract = "Measuring emotions objectively in human-computer interaction is complicated because it involves selecting the appropriate detection mechanism, developing the computational technique to analyse it, and evaluating the correctness of the technique. Existing solutions are either manual, multimodal (requiring multiple sensors), have latency in their response, or do not provide context to why the participant experiences certain emotions. Our approach is an algorithm that measures physiological arousal through analysis of pupillary response and relating it to participants’ focal attention. We built our algorithm through a data-driven approach by doing a secondary analysis of two independent datasets. The algorithm works by sensing an increase in arousal through peak detection of the pupil size and compounding the magnitude of this increase with the time spent on the corresponding area of interest. Our contribution to affect detection is that our detection mechanism is unimodal (eye-tracking) and unobtrusive, yet senses arousal with added information about participants’ focal attention when they experienced a certain measure of arousal. In its preliminary evaluation, we used Stroop’s effect to elicit multiple states of arousal on 19 participants. We found a moderate correlation, r(76)=.61, p<.01 between the induced states of arousal and our algorithm’s computed level of arousal. This result suggests that our algorithm could be used to complement existing research methods in usability, UX and studies of visual research behaviour. The committee for ethics at the University of Manchester approved this study."
