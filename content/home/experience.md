@@ -27,14 +27,15 @@ date_format = "January 2006"
   date_end = "2015-09-01"
   description = """As a consultant for NLNG, I was part of the team that re-implemented their HCM and ESS/MSS solution and provided post implementation support.
  I was involved in:
-* Designing the pay slip template using SMARTFORMS
-* Linking SAP travel management and budgeting using USER EXITS and Business Application Programming Interfaces (BAPIs) 
-* Building custom reports for payroll, rewards and travel management
-* E-recruitment workflow approvals
-* Integrating external E-recruitment server with SAP System using Electronic Document Interchange
-* Customization of SAP portal to hide and show certain information depending on the user's roles.
-* Implementation of leave request and approval workflow.
-* Tier 3 (expert level) support after implementation.
+ 
+  * Designing the pay slip template using SMARTFORMS
+  * Linking SAP travel management and budgeting using USER EXITS and Business Application Programming Interfaces (BAPIs) 
+  * Building custom reports for payroll, rewards and travel management
+  * E-recruitment workflow approvals
+  * Integrating external E-recruitment server with SAP System using Electronic Document Interchange
+  * Customization of SAP portal to hide and show certain information depending on the user's roles.
+  * Implementation of leave request and approval workflow.
+  * Tier 3 (expert level) support after implementation.
  """
 
 [[experience]]
@@ -46,20 +47,21 @@ date_format = "January 2006"
   date_end = "2012-09-01"
   description = """As part of a 2-man ABAP team, we contributed to the implementation of SAP HCM solution at FIRS (Nigeria's equivalent of UK's HRMS) and supported SAP HCM solution at NLNG.
  I was involved in:
- *	Writing FIRS' custom payroll program
- * Data migration from the legacy system using Legacy System Migration Workbench (LSMW) and Batch Data Communication BDC tools.
- * Creating custom reports for identifying differences between the legacy system and the new system during parallel run.
- *	Tier 3 (expert) support to NLNG on workflow and data related issues.
- * Creation of custom infotypes for various master data entries.
- * Interfacing the output of sap payroll run to third party bank APIs.
- * Designing the pay slip template using SMARTFORMS
- * Linking SAP travel management and budgeting using USER EXITS and Business Application Programming Interfaces (BAPIs) 
- * Building custom reports for payroll, rewards and travel management
- * E-recruitment workflow approvals
- * Integrating external E-recruitment server with SAP System using Electronic Document Interchange
- * Customization of SAP portal to hide and show certain information depending on the user's roles.
- * Implementation of leave request and approval workflow.
- * Tier 3 (expert level) support after implementation.
+
+  * Writing FIRS' custom payroll program
+  * Data migration from the legacy system using Legacy System Migration Workbench (LSMW) and Batch Data Communication BDC tools.
+  * Creating custom reports for identifying differences between the legacy system and the new system during parallel run.
+  * Tier 3 (expert) support to NLNG on workflow and data related issues.
+  * Creation of custom infotypes for various master data entries.
+  * Interfacing the output of sap payroll run to third party bank APIs.
+  * Designing the pay slip template using SMARTFORMS
+  * Linking SAP travel management and budgeting using USER EXITS and Business Application Programming Interfaces (BAPIs) 
+  * Building custom reports for payroll, rewards and travel management
+  * E-recruitment workflow approvals
+  * Integrating external E-recruitment server with SAP System using Electronic Document Interchange
+  * Customization of SAP portal to hide and show certain information depending on the user's roles.
+  * Implementation of leave request and approval workflow.
+  * Tier 3 (expert level) support after implementation.
   """
 
 [[experience]]
