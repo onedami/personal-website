@@ -44,5 +44,17 @@ weight = 7
   icon_pack = "fas"
   name = "Software Consulting"
   description = ""
+  
+[[feature]]
+  icon = "puzzle-piece"
+  icon_pack = "fas"
+  name = "Problem solving"
+  description = ""
+  
+[[feature]]
+  icon = "hand-holding-usd"
+  icon_pack = "fas"
+  name = "Entrepreneurship"
+  description = ""
 
 +++
