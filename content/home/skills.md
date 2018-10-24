@@ -23,7 +23,7 @@ weight = 7
 
 [[feature]]
   icon = "flask"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Research"
   description = ""
   
