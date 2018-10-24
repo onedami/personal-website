@@ -13,7 +13,7 @@ summary = "I'm the senior backend developer on the project to deliver an open so
 tags = ["Software development", "Systematic review", "Python Flask", "SQL alchemy"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.researchgate.net/project/Sensing-arousal-during-visual-interaction"
+external_link = "https://olu.netlify.com/#projects"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
