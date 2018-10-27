@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Moodbook"
+title = "Moodbook: An Application for Continuous Monitoring of Social Media Usage and Mood"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
