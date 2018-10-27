@@ -1,5 +1,5 @@
 +++
-title = "Sensing arousal and Focal Attention During Visual Interaction"
+title = "Moodbook: An Application for Continuous Monitoring of Social Media Usage and Mood"
 date = 2018-10-16T00:00:00
 draft = false
 
