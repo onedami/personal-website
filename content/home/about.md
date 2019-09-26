@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science (Ongoing)"
+  course = "PhD in Computer Science"
   institution = "University of Manchester"
   year = 2019
 
@@ -37,5 +37,5 @@ weight = 5
 
 # Biography
 
-A PhD candidate in Human-Computer Interaction and affective computing. During the past 3 years, I researched on the use of pupillary response as a proxy to sense arousal, while also using eye-tracking technology to identify the user’s focal attention during moments of increased arousal. Future research interests include the use of unobtrusive technologies for affect detection in naturalistic settings. 
-Previously, I worked as a software consultant delivering Enterprise Resource Planning (ERP) solutions using SAP platform.
+Researcher in Human-Computer Interaction and affective computing. For my PhD, I researched on the use of pupillary response as a proxy to sense arousal, while also using eye-tracking technology to identify the user’s focal attention during moments of increased arousal. Future research interests include the use of unobtrusive technologies for affect detection in naturalistic settings, the use of conversational voice interfaces in public spaces. 
+I currently work as a software developer for Sage, and a visiting research fellow at the University of Manchester.
