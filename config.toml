@@ -51,12 +51,12 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Michael O. Matthews"
+  name = "Oludamilare Matthews, PhD"
   role = "Software Engineer @ Sage, Visiting Research Fellow @ the University of Manchester"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Sage", url = "https://www.sage.com" }, { name = "University of Manchester IAM lab", url = "http://www.cs.manchester.ac.uk/our-research/laboratories/iam/" } ]
+  organizations = [ { name = "Sage", url = "https://www.sage.com" }, { name = "UoM IAM lab", url = "http://www.cs.manchester.ac.uk/our-research/laboratories/iam/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
