@@ -38,5 +38,5 @@ weight = 5
 # Biography
 
 I currently work as a software Engineer for Sage, and a visiting research fellow at the University of Manchester.
-I obtained my PhD in computer science from my work in the HCI domain. I researched the use of pupillary response as a proxy to sense arousal, while also using eye-tracking technology to identify the user’s focal attention during moments of increased arousal. Future research interests include 1. the use of unobtrusive technologies for affect detection in naturalistic settings, 2. the use of conversational voice interfaces in public spaces. 
+I obtained my PhD in computer science from my work in the HCI domain. I researched the use of pupillary response as a proxy to sense arousal, while also using eye-tracking technology to identify the user’s focal attention during moments of increased arousal. Future research interests include 1. The use of unobtrusive technologies for affect detection in naturalistic settings, 2. The use of conversational voice interfaces in public spaces. 
 
